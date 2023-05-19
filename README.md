@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm Marc Brophy, Software Developer and Cloud Engineer.</p>
+<p align="left">I'm Marc Brophy, Developer and Creator.</p>
 
 ###
 
@@ -11,8 +11,7 @@
 ###
 
 <p align="left">
-  I've been engaging in the development of various software application since I was 12 years old, and mainly specialize in video game development, web applications, and cloud software/architecture. I love learning and improving the way I build and create.
-  
+  Engaged in multiple disciplines spanning cloud architecture, software development, gameplay engineering and applications.
 </p>
 
 ###
