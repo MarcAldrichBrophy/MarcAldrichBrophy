@@ -22,7 +22,7 @@
   </ul>
   I'm learning:
   <ul>
-    <li>AWS by stuying for my Solutions Architect Certification.</li>
+    <li>AWS by studying for my Solutions Architect Certification.</li>
     <li>Cybersecurity through IBM.</li>
   </ul>
   
