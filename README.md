@@ -11,6 +11,7 @@
 ###
 
 <p align="left">
+  10+ years of coding experience.
   Currently studying and working on cloud applications and security.
 </p>
 
