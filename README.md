@@ -1,2 +1,2 @@
 # Marc Brophy
-Student, Cloud Engineer. Always learning, always improving.
+Student, Cloud Engineer.
